@@ -15,4 +15,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 
 # أمر تشغيل البوت
-CMD ["python", "tiktok_bot.py"]
+CMD ["python", "bot.py"]
